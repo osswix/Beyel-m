@@ -3,7 +3,7 @@
 The word order in beyelım is not set per-se, the verb always comes at the end of a sentence. 
 Other words basicly are able to come anywhere before that.
 
-###Nouncases
+###Noun cases
 There are three nouncases that are key to the syntax, these are Nominative, Accusative and topic.
 
 Name       | Function                     | Example (english)              | Example (beyelım)
