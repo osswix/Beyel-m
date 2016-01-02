@@ -66,4 +66,4 @@ The ideal timing is syllable timing, where each syllable is pronounced as long a
 ###Stress
 The stress always is on the initial syllable, with syllabic nasal syllables excluded, if a word sounds on a nasal syllable the first proceeding (C)V syllable gets stressed.
 
-######*Osswix, 1 or 2 Jan 2016* 
+######*Osswix, 1-1-2016* 
