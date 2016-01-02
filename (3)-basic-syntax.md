@@ -12,7 +12,7 @@ Nominative | Subject of a sentence        | **I** kicked the dog.          | TBD
 Accusative | Direct object of a sentence  | I kicked **the dog**.          | TBD
 Topic      | The topic of a sentence      | **about the dog**, I kicked it.| TBD
 
-The top is broadly translated as "about the ..." but might be translated as a subject or direct object depending on how it is used.
+The topic is roughly translated as "about the ..." but might be translated as a subject or direct object depending on how it is used.
 
 Name       | Suffix (front harmony) | Suffix (back harmony) | Example (*ödzin-* plant) (front harmony) | Example (*ndını-* dog) (back harmony)
 -----------|------------------------|-----------------------|------------------------------------------|-----------------------------------
