@@ -18,7 +18,7 @@ Name       | Suffix (front harmony) | Suffix (back harmony) | Example (*ödzin-*
 -----------|------------------------|-----------------------|------------------------------------------|-----------------------------------
 Nominative | -                      | -                     | ödzin                                    | ndını
 Accusative | -(n)ön                 | -(n)on                | ödzin**ön**                              | ndını**non**
-Topic      | -(n)a                  | -(n)a                 | ödzin**a**                               | ndını**a**
+Topic      | -(n)a                  | -(n)a                 | ödzin**a**                               | ndını**na**
 
 If a noun-root doesn't end on a nasal syllable, the (n) part of the suffix appears, else the nasal syllable will merge with the vowel syllable and form a CV syllable.
 
