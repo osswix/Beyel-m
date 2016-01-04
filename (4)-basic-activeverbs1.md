@@ -12,7 +12,7 @@ Aspect | suffix (front harmony) | suffix (back harmony) | example (*miki-* drink
 -------|------------------------|-----------------------|---------------------------------------|----------------------------------------
 simple | -                      | -                     | miki                                  | mbayırı
 perfect| rë                     | re                    | mikirë                                | mbayıre
-gnomic | nën                    | nen                   | mikinen                               | mbayırınen
+gnomic | nën                    | nen                   | mikinën                               | mbayırınen
 
 !NB if the final syllable of the verb root starts with the same consonant as the suffix, that syllable is replaced with the suffix.
 
