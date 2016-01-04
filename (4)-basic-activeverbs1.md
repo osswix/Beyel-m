@@ -20,7 +20,7 @@ gnomic | nën                    | nen                   | mikinën             
 Instead of tense, aspect is more a more important and direct way of telling someone when something happened, tense is used to indicate a very far past, or a prediction of the future. Common tenses are the present, the archaic tense (also known as far past), and (far) future, including probability in both the archaic and (far) future tenses.
 the suffix of tense comes after the aspect suffix.
 
-Tense             | suffix (front harmony) | suffix (back harmony) | example (*miki-* drink)(front harmony)| example (*mbayrı-* kick)(back harmony)
+Tense             | suffix (front harmony) | suffix (back harmony) | example (*miki-* drink)(front harmony)| example (*mbayırı-* kick)(back harmony)
 ------------------|------------------------|-----------------------|---------------------------------------|----------------------------------------
 present           | -                      | -                     | miki                                  | mbayırı
 archaic           | tëyë                   | teye                  | mikitëyë                              | mbayırıteye
