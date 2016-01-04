@@ -24,7 +24,7 @@ Tense             | suffix (front harmony) | suffix (back harmony) | example (*m
 ------------------|------------------------|-----------------------|---------------------------------------|----------------------------------------
 present           | -                      | -                     | miki                                  | mbayırı
 archaic           | tëyë                   | teye                  | mikitëyë                              | mbayırıteye
-improbable archaic| kayën                  | kayen                 | mikayën                               | mbayırıgayen
+improbable archaic| kayën                  | kayen                 | mikayën                               | mbayırıkayen
 future            | ma                     | ma                    | mikama                                | mbayırıma
 improbable future | möyën                  | moyen                 | mikamöyën                             | mbayırımoyen
 
