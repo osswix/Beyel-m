@@ -6,8 +6,8 @@ IPA|Romanisation   |IPA|Romanisation
  m | m             | ts|ts
  n |n/l<sup>2</sup>| dz|dz
  ŋ | ng            | tɕ|c
- ᵐb| mb            | dʑ|j
- ⁿd| nd            | ʈʂ|ch
+ ᵐb| mb<sup>3</sup>| dʑ|j
+ ⁿd| nd<sup>3</sup>| ʈʂ|ch
  ᵑg| ng<sup>1</sup>| ɖʐ|jh
 p/b| P             | w |w
 t/d| t             | l |l
@@ -19,8 +19,9 @@ k/g| k             | j |y
  z | z             |   |
  ʐ | zh            |   |
 
-<sup>1</sup>only occurs word initially.
+<sup>1</sup>only occurs word initially, may also be written as "g" initially (spelling of old loanwords)
 <sup>2</sup>/n/ is written as <l> initially.
+<sup>3</sup>may also be written as b (for /ᵐb/) and d (for /ⁿd/) (spelling of old loanwords)
 ###Vowels
 IPA|Romanisation
 ---|------------
