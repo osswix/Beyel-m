@@ -10,9 +10,9 @@ Name       | Function                     | Example (english)               | Ex
 -----------|------------------------------|---------------------------------|------------------
 Nominative | Subject of a sentence        | **I** kicked the dog.¹          | TBD
 Accusative | Direct object of a sentence  | I kicked **the dog**.¹          | TBD
-Topic      | The topic of a sentence      | **about the dog**, I kicked it.¹| TBD
+Topic      | The topic of a sentence      | **concerning the dog**, I kicked it.¹| TBD
 
-The topic is roughly translated as "about the ..." but might be translated as a subject or direct object depending on how it is used.
+The topic is roughly translated as "concerning the ..." but might be translated as a subject or direct object depending on how it is used.
 
 Name       | Suffix (front harmony) | Suffix (back harmony) | Example (*ödzin-* plant) (front harmony) | Example (*ndını-* dog) (back harmony)
 -----------|------------------------|-----------------------|------------------------------------------|-----------------------------------
