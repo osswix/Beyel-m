@@ -8,9 +8,9 @@ There are three noun cases that are key to the syntax, these are Nominative, Acc
 
 Name       | Function                     | Example (english)               | Example (beyelım)
 -----------|------------------------------|---------------------------------|------------------
-Nominative | Subject of a sentence        | **I** kicked the dog.¹          | TBD
-Accusative | Direct object of a sentence  | I kicked **the dog**.¹          | TBD
-Topic      | The topic of a sentence      | **concerning the dog**, I kicked it.¹| TBD
+Nominative | Subject of a sentence        | **I** kicked the dog.¹          | **Na** ndınınon bayırë
+Accusative | Direct object of a sentence  | I kicked **the dog**.¹          | Na **ndınınon** bayırë
+Topic      | The topic of a sentence      | **concerning the dog**, I kicked it.¹| **ndınına** na  bayırë
 
 The topic is roughly translated as "concerning the ..." but might be translated as a subject or direct object depending on how it is used.
 
