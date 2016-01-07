@@ -20,7 +20,7 @@ The roots of the second person are front harmony while all other roots (the 1st 
 
 There are three layers of suffies that can be added after the fusional rootforms. The first layer is mostly gender, the second layer is number and the third layer is relation.
 
-###Genders
+####Genders
 
 Class | Suffix (front harmony) | Suffix (back harmony)
 ------|------------------------|-----------------------
@@ -29,7 +29,7 @@ Female| in                     | ın
 Animal| öhë                    | ohe
 Family| a                      | a
 
-###Number
+####Number
 
 Number | Suffix (front harmony) | Suffix (back harmony)
 -------|------------------------|-----------------------
@@ -37,7 +37,7 @@ Dual   | të                     | te
 Paucal | ngë                    | nge
 Plural | zë                     | ze
 
-###Relation
+####Relation
 
 Relation | Suffix (front harmony) | Suffix (back harmony)
 ---------|------------------------|-----------------------
