@@ -16,5 +16,34 @@ The roots of the second person are front harmony while all other roots (the 1st 
 
 ###Suffixes
 
+There are three layers of suffies that can be added after the fusional rootforms. The first layer is mostly gender, the second layer is number and the third layer is relation.
+
+###Genders
+
+Class | Suffix (front harmony) | Suffix (back harmony)
+------|------------------------|-----------------------
+Male  | më                     | me
+Female| in                     | ın
+Animal| öhë                    | ohe
+Family| a                      | a
+
+###Number
+
+Number | Suffix (front harmony) | Suffix (back harmony)
+-------|------------------------|-----------------------
+Dual   | të                     | te
+Paucal | ngë                    | nge
+Plural | zë                     | ze
+
+###Relation
+
+Relation | Suffix (front harmony) | Suffix (back harmony)
+---------|------------------------|-----------------------
+formal   | im                     | ım
+familiar | an                     | an
+humble   | ö                      | o
+informal | ëjë                    | eje
+
+The first vowel of the relation suffix can replace the ë/e from the number suffix. so a 3st person nominative dual formal looks like "Itım" insted of "Iteım".
 
 ######*Osswix, 7-1-2016*
