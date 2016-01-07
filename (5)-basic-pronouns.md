@@ -2,6 +2,8 @@
 ###Pronouns in beyelım
 Pronouns, unlike normal nouns, are more fusional, the root and case tend to merge more together, but after that an array of normal agglutenating suffixes can occur.
 Pronouns are not seperated by gender/class in their root forms.
+
+Romanized pronouns always start with a capital letter.
 ###Pronoun roots
 
           | usage  | Nominative | Accusative | Topic
